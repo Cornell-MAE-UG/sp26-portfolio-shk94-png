@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sam Kuzmishin
 description              : Sam Kuzmishin - Projects and CV 
-baseurl                  : "/portfolio-fa25-fa25-portfolio-portolios" # Set this to your repo name 
+baseurl                  : "/sp26-portfolio-shk94" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
