@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in Aerospace and Automotiv
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.18/4.0 | Graduation: May, 2027
+  GPA: 3.14/4.0 | Graduation: May, 2027
 
 - **Winchester Thurston High School**  
   *High School Diploma*  
@@ -77,8 +77,10 @@ Aspiring engineering student with a strong foundation in Aerospace and Automotiv
 
 - **Cornell Consult Your Community**  
   September, 2024 - Present  
-  - Completed rigorous 10-week New Member Education series covering consulting frameworks, presenting case studies, creating PowerPoint decks, building Excel spreadsheets, and public speaking
-  - Provided pro-bono consulting services to small businesses in Ithaca including sourcing potential distributors, identifying and targeting key demographics, and doing competitor analysis
+  -Completed rigorous 10-week New Member Education series covering consulting frameworks, presenting case studies, creating PowerPoint decks, building Excel spreadsheets, and public speaking 
+  -Managed a group of analysts to provide pro-bono consulting services to businesses in the Ithaca community
+  -Coordinated small business owners & executive board members to produce actionable plan for product launch and market entry, including competitor analysis, pricing strategy, logistical choices, and strategic partnerships
+
 
 ---
 
