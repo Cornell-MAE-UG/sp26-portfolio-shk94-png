@@ -37,8 +37,8 @@ Aspiring engineering student with a strong foundation in Aerospace and Automotiv
 
 #### Projects
 - **Drive On**  
-  Feburary 2021 - Present
-  *A car repair nonprofit I founded and operate to provide cost affordable and reliable transportation to the Pittsburgh community*<br>  
+  Feburary 2021 - Present <br> 
+  *A car repair nonprofit I founded and operate to provide cost affordable and reliable transportation to the Pittsburgh community* 
   - Raised over $15,000 and received multiple car donations to be repaired and donated to the community
   - Engaged with Pittsburgh nonprofits such as Veterans Place, a transitional housing service, and HEARTH, a women's shelter, to identify those in need of our services, connect with them, and provide free car repairs and maintenance  
 
