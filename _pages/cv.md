@@ -38,7 +38,7 @@ Aspiring engineering student with a strong foundation in Aerospace and Automotiv
 #### Projects
 - **Drive On**  
   Feburary 2021 - Present
-  *A car repair nonprofit I founded and operate to provide cost affordable and reliable transportation to the Pittsburgh community*  
+  *A car repair nonprofit I founded and operate to provide cost affordable and reliable transportation to the Pittsburgh community*\  
   - Raised over $15,000 and received multiple car donations to be repaired and donated to the community
   - Engaged with Pittsburgh nonprofits such as Veterans Place, a transitional housing service, and HEARTH, a women's shelter, to identify those in need of our services, connect with them, and provide free car repairs and maintenance  
 
@@ -46,8 +46,7 @@ Aspiring engineering student with a strong foundation in Aerospace and Automotiv
 ---
 
 #### Work Experience
-- **Thermo Fisher Scientific - Project Management Intern**
-  
+- **Thermo Fisher Scientific - Project Management Intern**\ 
   June 2026 - August 2026
   - Optimized BSC manufacturing lines, increasing efficiency by 16.1% while drastically reducing overtime
   - Collaborated with existing workers and coordinated management to pursue continuous improvement initiatives
