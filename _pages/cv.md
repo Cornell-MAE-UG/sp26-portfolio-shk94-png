@@ -20,11 +20,11 @@ Aspiring engineering student with a strong foundation in Aerospace and Automotiv
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.14/4.0 | Graduation: May, 2027
+  GPA: 3.14/4.0 | Graduation: May 2027
 
 - **Winchester Thurston High School**  
   *High School Diploma*  
-  Graduation: June, 2023
+  Graduation: June 2023
 
 ---
 
