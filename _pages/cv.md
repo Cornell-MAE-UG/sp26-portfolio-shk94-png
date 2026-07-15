@@ -47,6 +47,7 @@ Aspiring engineering student with a strong foundation in Aerospace and Automotiv
 
 #### Work Experience
 - **Thermo Fisher Scientific - Project Management Intern**
+  
   June 2026 - August 2026
   - Optimized BSC manufacturing lines, increasing efficiency by 16.1% while drastically reducing overtime
   - Collaborated with existing workers and coordinated management to pursue continuous improvement initiatives
